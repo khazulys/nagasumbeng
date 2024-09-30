@@ -19,7 +19,7 @@ bot = telebot.TeleBot(TOKEN)
 # Dictionary untuk menyimpan state data sementara per pengguna
 user_data = {}
 
-PASSWORD = 'diki0821'  # Password yang benar
+PASSWORD = 'catchmeifyoucan1337""'  # Password yang benar
 BASE_URL = 'https://pkp.sfu.ca/software/ojs/download/archive/'
 
 # Function untuk fetch konten dari URL
